@@ -5,10 +5,10 @@ var data = {
     // -------------------------------------------------
     // Greetings config. Change greetings from here
 
-    g1: "おやすみなさい", // From 23:00 to 5:00
-    g2: "おはようございます", // Until 12:00
-    g3: "こんにちは", // Until 17:00
-    g4: "おやすみなさい", // Rest of the time
+    g1: "good night", // From 23:00 to 5:00
+    g2: "good morning", // Until 12:00
+    g3: "good afternoon", // Until 17:00
+    g4: "good evening", // Rest of the time
 
     // Font size of the greeting
     greeting_fontsize: "40px",
@@ -49,7 +49,7 @@ var data = {
 
     // -------------------------------------------------
     // Page title
-    title: "ここから始める",
+    title: "こんにちは",
 
     // -------------------------------------------------
     // Change search bar proprietis from here
