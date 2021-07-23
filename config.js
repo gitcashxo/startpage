@@ -54,7 +54,7 @@ var data = {
     // -------------------------------------------------
     // Change search bar proprietis from here
     // Search bar placeholder
-    search_placeholder: "Search here",
+    search_placeholder: "Search",
     // Search engine
     // Possible choices: (case sensitive)
     // google
@@ -63,6 +63,6 @@ var data = {
     // startpage
     // ecosia
     // youtube
-    search_engine: "google",
+    search_engine: "duckduckgo",
 
 }
